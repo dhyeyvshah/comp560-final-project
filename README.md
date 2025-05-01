@@ -5,3 +5,5 @@ This project explores the application of Naïve Bayes models for predicting Netf
 This dataset was taken from Kaggle.com.
 
 https://www.kaggle.com/datasets/samithsachidanandan/netflix-stock-price-2002-2025/data
+
+Our final paper can be accessed through this Github repository in the file ```Netflix_Predictions.pdf```.
